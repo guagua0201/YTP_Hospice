@@ -7,6 +7,10 @@
 ![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk3.png)
 ![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk4.png)
 ![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk5.png)
+# The histogram of the vectors
+![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk13.png)
+# The .csv file of the vectors after normalize.
+![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk14.png)
 # The result of KNN on Python, calculate the distance between the vectors for us.
 ![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk10.png)
 ![image](https://github.com/guagua0201/YTP_Hospice/blob/master/sk/sk6.png)
